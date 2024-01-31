@@ -15,4 +15,4 @@ now Let me 1st commit this,whih git commit -m "" <br>
 Now it is saved in git, let me try to push it on git hub,[I thought add and commit will push my file in git hub but i was wrong, it just save my progess in project on git on my local devie.]<br>
 Now i am writing to push code in git hub [git puch origin main] <br>
 Wow it was preety intresting process, since it was 1st time i have authorize vs code, make sence
-
+<br>now let me make some shance in try.html, well let me just write hellow world this time
